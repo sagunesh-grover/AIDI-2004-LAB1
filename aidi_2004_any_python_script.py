@@ -1,4 +1,4 @@
-#script to find whether a number is odd or even
+#python script to find whether a number is odd or even
 
 
 num = int(input("Please enter a number: "))
